@@ -4,8 +4,7 @@
 The Fegatello was founded to provide the truth in an era of disinformation.<br>
 Everything we print is free, fair, and fit for everyone to read.<br>
 
-### Submit News Tips
-Submit news tips directly via our [website](https://www.fegatello.com/contact).
+### Submit news tips directly via our [website](https://www.fegatello.com/contact)
 
 <!---
 fegatello/fegatello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
