@@ -1,6 +1,6 @@
 # The Fegatello: An Independent News Organization
 
-### Independent News and Analysis
+### Balanced News and Analysis
 The Fegatello was founded to provide the truth in an era of disinformation.<br>
 Everything we print is free, fair, and fit for everyone to read.<br>
 
